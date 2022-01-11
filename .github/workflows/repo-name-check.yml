@@ -8,7 +8,7 @@ jobs:
   register-and-lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: SvanBoxel/organization-workflow@main
+    - uses: svanboxel/organization-workflow@1.3.0
       with:
         id: $
         callback_url: $
