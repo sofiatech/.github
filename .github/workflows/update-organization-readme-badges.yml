@@ -11,13 +11,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-  
+
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+
       - name: organization-readme-badge-generator
         id: organization-readme-badge-generator
         uses: joshjohanning/organization-readme-badge-generator@v1
         with:
           organization: ${{ github.repository_owner }}
-          token: ${{ secrets.ADMIN_TOKEN }} # recommend to use a GitHub App and not a PAT
+          token: ${{ steps.app-token.outputs.token }} # recommend to use a GitHub App and not a PAT
     
       - name: write to job summary
         run: |
