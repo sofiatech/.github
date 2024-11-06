@@ -6,7 +6,7 @@
 
 ✨ This is an organization from [@cbmak](https://github.com/cbmak)
 
-<img src="https://github.com/airdata/airdata-web/blob/master/images/9114FE22-ED7F-4CF4-AE77-C8CABCB099CD.png" width="600" >
+<img src="https://github.com/airdata/airdata-web/blob/master/images/9114FE22-ED7F-4CF4-AE77-C8CABCB099CD.png" width="700" >
 
 ## Useful links 🔗!
 
