@@ -6,7 +6,7 @@
 
 ✨ This is an organization from [@cbmak](https://github.com/cbmak)
 
-<img src="https://github.com/joshjohanning-org/.github/assets/19912012/f416c7e9-c5cc-4fae-88ef-98e993aac0ef" width="200" >
+<img src="https://github.com/airdata/airdata-web/blob/master/images/guy.png" width="200" >
 
 ## Useful links 🔗!
 
