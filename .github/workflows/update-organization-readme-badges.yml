@@ -37,7 +37,7 @@ jobs:
 
       - name: add to readme
         run: |
-          readme=profile/README.md
+          readme=README.md
           
           # get SHA256 before
           beforeHash=$(sha256sum $readme | awk '{ print $1 }')
