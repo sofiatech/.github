@@ -1,10 +1,10 @@
-# joshjohanning-org
+# Studio 1 Sofia
 
 <!-- start organization badges -->
 ![Total repositories](https://img.shields.io/static/v1?label=Total%20repositories&message=384&color=blue) ![Open PRs in last 30 days](https://img.shields.io/static/v1?label=Open%20PRs%20in%20last%2030%20days&message=3&color=blue) ![Merged PRs in last 30 days](https://img.shields.io/static/v1?label=Merged%20PRs%20in%20last%2030%20days&message=1&color=blue)
 <!-- end organization badges -->
 
-✨ This is an organization from [@joshjohanning](https://github.com/joshjohanning)
+✨ This is an organization from [@cbmak](https://github.com/cbmak)
 
 <img src="https://github.com/joshjohanning-org/.github/assets/19912012/f416c7e9-c5cc-4fae-88ef-98e993aac0ef" width="200" >
 
