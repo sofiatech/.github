@@ -1,4 +1,4 @@
-<a href="https://airdata.github.io"><img src="https://img.shields.io/static/v1?label=blog&message=airdata.github.io&color=teal"></a> <a href="https://www.linkedin.com/in/rumen-lishkov/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+<a href="https://airdata.github.io"><img src="https://img.shields.io/static/v1?label=website&message=airdata.github.io&color=teal"></a> <a href="https://www.linkedin.com/in/rumen-lishkov/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
 <img src="https://github.com/airdata/airdata-web/blob/master/images/9114FE22-ED7F-4CF4-AE77-C8CABCB099CD.png" width="900" >
 
 ### Hi there 👋
