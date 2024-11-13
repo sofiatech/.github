@@ -7,7 +7,7 @@
 
 ⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
 
-⚡ I blog about my GitHub and my DevOps experiences at [](https://josh-ops.com) 📖
+⚡ I blog about my GitHub and my DevOps experiences at [](https://airdata.gitlab.io/blog/) 📖
 
 ⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo ✨
 
@@ -17,7 +17,7 @@
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
-  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/rumenlishkov/)
+  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/rumen-lishkov/)
   - 
 
 <!-- start organization badges -->
