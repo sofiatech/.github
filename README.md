@@ -14,8 +14,8 @@
 ⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
 
 ⚡ To contact me: 
-  - 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
-  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/joshua-johanning/)
+  - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
+  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/rumenlishkov/)
   - 
 
 <!-- start organization badges -->
