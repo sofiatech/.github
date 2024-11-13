@@ -2,7 +2,7 @@
 <img src="https://github.com/airdata/airdata-web/blob/master/images/9114FE22-ED7F-4CF4-AE77-C8CABCB099CD.png" width="900" >
 
 ✨ Part from [@cbmak](https://github.com/cbmak)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 ### Hi there 👋
 
 ⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
