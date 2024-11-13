@@ -1,5 +1,6 @@
 <a href="https://rumen.free.bg/"><img src="https://img.shields.io/static/v1?label=website&message=rumen.free.bg/&color=teal"></a> 
 <a href="https://www.linkedin.com/in/rumen-lishkov/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+<a href="https://airdata.gitlab.io/blog//"><img src="https://img.shields.io/static/v1?label=Blog&message=Read&color=blue"></a>
 
 <img src="https://github.com/airdata/airdata-web/blob/master/images/9114FE22-ED7F-4CF4-AE77-C8CABCB099CD.png" width="900" >
 
@@ -24,10 +25,6 @@
   - 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,py,github,gradle,jenkins,kubernetes,linux&perline=3)](https://skillicons.dev)
-
-<!-- start organization badges -->
-![Total repositories](https://img.shields.io/static/v1?label=Total%20repositories&message=7&color=blue) ![Open PRs in last 30 days](https://img.shields.io/static/v1?label=Open%20PRs%20in%20last%2030%20days&message=1&color=blue) ![Merged PRs in last 30 days](https://img.shields.io/static/v1?label=Merged%20PRs%20in%20last%2030%20days&message=1&color=blue)
-<!-- end organization badges -->
 
 Here are some ideas to get you started:
 
