@@ -7,7 +7,7 @@
 
 ⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
 
-⚡ I blog about my GitHub and my DevOps experiences at [](https://airdata.gitlab.io/blog/) 📖
+⚡ I blog about my GitHub and my DevOps experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 📖
 
 ⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo ✨
 
