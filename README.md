@@ -11,7 +11,7 @@
 
 ⚡ Check out some of my GitHub Actions on the Actions Marketplace [here](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
 
-⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
+⚡ Avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
@@ -24,14 +24,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...work
+- 🌱 I’m currently learning ...to learn
+- 👯 I’m looking to collaborate on ...cycling
+- 🤔 I’m looking for help with ...me
+- 💬 Ask me about ...nothing
+- 📫 How to reach me: ...404
+- 😄 Pronouns: ...I'm no fat
+- ⚡ Fun fact: ...whoami
 -->
 
 
