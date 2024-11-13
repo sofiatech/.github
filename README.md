@@ -21,8 +21,6 @@
 <!-- start organization badges -->
 ![Total repositories](https://img.shields.io/static/v1?label=Total%20repositories&message=7&color=blue) ![Open PRs in last 30 days](https://img.shields.io/static/v1?label=Open%20PRs%20in%20last%2030%20days&message=1&color=blue) ![Merged PRs in last 30 days](https://img.shields.io/static/v1?label=Merged%20PRs%20in%20last%2030%20days&message=1&color=blue)
 <!-- end organization badges -->
-<!--
-**joshjohanning/joshjohanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
