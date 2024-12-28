@@ -10,6 +10,6 @@
 
 ## Useful links 🔗!
 
-- See all of my internally build actions here: https://github.com/joshjohanning-org/reusable-workflows
-- github-misc-scripts: https://github.com/joshjohanning/github-misc-scripts
+- See all of my internally build actions here: https://github.com/airdata-org/reusable-workflows
+- github-misc-scripts: https://github.com/airdata/github-misc-scripts
 - GitHub changelog https://github.blog/changelog/

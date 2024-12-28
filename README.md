@@ -13,11 +13,11 @@
 
 ⚡ I blog about my GitHub and my DevOps experiences at [https://airdata.gitlab.io/blog/](https://airdata.gitlab.io/blog/) 📖
 
-⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo ✨
+⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/airdata/github-misc-scripts) repo ✨
 
-⚡ Check out some of my GitHub Actions on the Actions Marketplace [here](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
+⚡ Check out some of my GitHub Actions on the Actions Marketplace [here](https://github.com/marketplace?type=actions&query=airdata) 🚀
 
-⚡ Avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
+⚡ Avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/airdata/pipeline-templates) repo
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://rumen.free.bg/)!
